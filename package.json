@@ -1,0 +1,14 @@
+{
+  "name": "nuvella-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for NUVELLA TECHNOLOGY",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "NUVELLA TECHNOLOGY",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
